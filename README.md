@@ -50,7 +50,8 @@ import Mathlib
              Probability Theory to Representation Theory},
   author  = {Linhares, Alexandre},
   year    = {2026},
-  month   = {April}
+  month   = {April},
+  publication = {Argolab.org Report for Dissemination}
 }
 ```
 
